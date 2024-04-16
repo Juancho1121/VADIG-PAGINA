@@ -12,7 +12,7 @@ const productos = [
 {
     id: "mujer-02",
     titulo: "Cadena con perlas en oro golfy",
-    imagen: "./img/collar mujer02.jpg",
+    imagen: "./img/collar mujer/02.jpg",
     categoria: {
         nombre: "collares muejer",
         id: "c-mujer"
@@ -22,7 +22,7 @@ const productos = [
 {
     id: "mujer-03",
     titulo: "cadena de margaritas en acrilico y golfy",
-    imagen: "./img/abrigos/03.jpg",
+    imagen: "./img/collar mujer/03.jpg",
     categoria: {
         nombre: "collares muejer",
         id: "c-mujer"
@@ -32,7 +32,7 @@ const productos = [
 {
     id: "mujer-04",
     titulo: "Collar de estrellas de nakar",
-    imagen: "./img/abrigos/04.jpg",
+    imagen: "./img/collar mujer/04.jpg",
     categoria: {
         nombre: "collares muejer",
         id: "c-mujer"
@@ -42,7 +42,7 @@ const productos = [
 {
     id: "mujer-05",
     titulo: "Collar de mostacilla con estrella de mar",
-    imagen: "./img/abrigos/05.jpg",
+    imagen: "./img/collar mujer/05.jpg",
     categoria: {
         nombre: "collares muejer",
         id: "c-mujer"
@@ -52,7 +52,7 @@ const productos = [
 {
     id: "hombre-01",
     titulo: "Collar de conchas",
-    imagen: "./img/camisetas/01.jpg",
+    imagen: "./img/collar hombre/01.jpg",
     categoria: {
         nombre: "collares hombre",
         id: "c-hombre"
@@ -62,7 +62,7 @@ const productos = [
 {
     id: "hombre-02",
     titulo: "Collar acero/perla de rio con dije de cruz",
-    imagen: "./img/camisetas/02.jpg",
+    imagen: "./img/collar hombre/02.jpg",
     categoria: {
         nombre: "collares hombre",
         id: "c-hombre"
@@ -72,7 +72,7 @@ const productos = [
 {
     id: "hombre-03",
     titulo: "Collar de mostacilla #8 doble",
-    imagen: "./img/camisetas/03.jpg",
+    imagen: "./img/collar hombre/03.jpg",
     categoria: {
         nombre: "collares hombre",
         id: "c-hombre"
@@ -82,7 +82,7 @@ const productos = [
 {
     id: "hombre-01",
     titulo: "Cadenas  cubanas y collar de puas ",
-    imagen: "./img/camisetas/04.jpg",
+    imagen: "./img/collar hombre/04.jpg",
     categoria: {
         nombre: "collares hombre",
         id: "c-hombre"
@@ -92,7 +92,7 @@ const productos = [
 {
     id: "hombre-01",
     titulo: "Collar perla/acero",
-    imagen: "./img/camisetas/05.jpg",
+    imagen: "./img/collar hombre/05.jpg",
     categoria: {
         nombre: "collares hombre",
         id: "c-hombre"
@@ -102,7 +102,7 @@ const productos = [
 {
     id: "hombre-01",
     titulo: "Collar perla verde blanco dorado",
-    imagen: "./img/camisetas/06.jpg",
+    imagen: "./img/collar hombre/06.jpg",
     categoria: {
         nombre: "collares hombre",
         id: "c-hombre"
@@ -112,7 +112,7 @@ const productos = [
 {
     id: "hombre-01",
     titulo: "Collar de ying yang",
-    imagen: "./img/camisetas/07.jpg",
+    imagen: "./img/collar hombre/07.jpg",
     categoria: {
         nombre: "collares hombre",
         id: "c-hombre"
@@ -122,7 +122,7 @@ const productos = [
 {
     id: "hombre-01",
     titulo: "Collar de piedra volcanica",
-    imagen: "./img/camisetas/08.jpg",
+    imagen: "./img/collar hombre/08.jpg",
     categoria: {
         nombre: "collares hombre",
         id: "c-hombre"
@@ -132,7 +132,7 @@ const productos = [
 {
     id: "unisex",
     titulo: "Manilla de friends",
-    imagen: "./img/Pantalones/01.jpg",
+    imagen: "./img/unisex/01.jpg",
     categoria: {
         nombre: "manillas unisex",
         id: "unisex"
@@ -142,7 +142,7 @@ const productos = [
 {
     id: "unisex",
     titulo: "Pantalón 01",
-    imagen: "./img/Pantalones/02.jpg",
+    imagen: "./img/unisex/02.jpg",
     categoria: {
         nombre: "manillas unisex",
         id: "unisex"
@@ -152,7 +152,7 @@ const productos = [
 {
     id: "unisex",
     titulo: "Pantalón 01",
-    imagen: "./img/Pantalones/03.jpg",
+    imagen: "./img/unisex/03.jpg",
     categoria: {
         nombre: "manillas unisex",
         id: "unisex"
@@ -162,7 +162,7 @@ const productos = [
 { 
 id: "unisex",
 titulo: "Pantalón 01",
-imagen: "./img/Pantalones/04.jpg",
+imagen: "./img/unisex/04.jpg",
 categoria: {
     nombre: "manillas unisex",
     id: "unisex"
@@ -172,7 +172,7 @@ precio: 1000
  { 
     id: "unisex",
     titulo: "Pantalón 01",
-    imagen: "./img/Pantalones/05.jpg",
+    imagen: "./img/unisex/05.jpg",
     categoria: {
         nombre: "manillas unisex",
         id: "unisex"
@@ -182,7 +182,7 @@ precio: 1000
  { 
      id: "unisex",
     titulo: "Pantalón 01",
-    imagen: "./img/Pantalones/06.jpg",
+    imagen: "./img/unisex/06.jpg",
     categoria: {
     nombre: "manillas unisex",
     id: "unisex"
